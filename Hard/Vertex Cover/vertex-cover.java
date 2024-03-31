@@ -71,7 +71,7 @@ class GFG {
 
 
 class Solution {
-    public static int vertexCover(int n, int m, int[][] edges) {
+      public static int vertexCover(int n, int m, int[][] edges) {
         // code here
         int ans = Integer.MAX_VALUE;
         
