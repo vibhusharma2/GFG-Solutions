@@ -56,7 +56,7 @@ class GFG {
 
 
 class Solution {
-   public static int maxProfit(int n, int[] price) {
+    public static int maxProfit(int n, int[] price) {
         // code here
         if (n <= 1) {
             return 0;
